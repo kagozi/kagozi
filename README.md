@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kagozi
-- 👀 I’m interested in fintech
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a web application
 - 📫 How to reach me at alexkagozi@gmail.com
